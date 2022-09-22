@@ -1,0 +1,2 @@
+
+    def mirroir(self):
